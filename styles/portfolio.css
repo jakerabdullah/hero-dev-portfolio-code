@@ -182,7 +182,7 @@ nav .menu a{
     width: 71%;
     max-width: 1140px;
     margin: 113px auto 0;
-    display: flex;
+    display: flex; flex-wrap: wrap;
     justify-content: space-around;
     gap: 24px;
 
